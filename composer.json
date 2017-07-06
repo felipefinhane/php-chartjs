@@ -1,0 +1,14 @@
+{
+    "name": "felipefinhane/php-chartjs",
+    "description": "Lib for CharJS PHP Backend",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Felipe Finhane de Paula",
+            "email": "felipefinhane@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
